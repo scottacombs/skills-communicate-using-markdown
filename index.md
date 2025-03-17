@@ -1,0 +1,12 @@
+# Header 1 Learning Markdown
+Text 1
+## Heading 2 getting started
+Text 2
+### Heading 3 getting going
+Text 3
+#### Heading 4 pickin up speed
+Text 4
+##### Heading 5 ready to roll
+Text 5
+###### Heading 6 at the heading limit
+Text 6
