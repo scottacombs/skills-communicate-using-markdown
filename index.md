@@ -10,4 +10,6 @@ Text 4
 ##### Heading 5 ready to roll
 Text 5
 ###### Heading 6 at the heading limit
-Text 6
+``` javascript
+var myVar = "Hello, world!";
+```
