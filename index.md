@@ -4,6 +4,7 @@ Text 1
 Text 2
 ### Heading 3 getting going
 Text 3
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### Heading 4 pickin up speed
 Text 4
 ##### Heading 5 ready to roll
